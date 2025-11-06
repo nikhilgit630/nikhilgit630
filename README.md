@@ -73,7 +73,7 @@ I specialize in **React, Next.js, Redux-Saga, Node.js**, and also have hands-on 
 
 - 📧 Email: [nik16dube@gmail.com](mailto:nik16dube@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/nikhil-dubey-b4b471243](https://www.linkedin.com/in/nikhil-dubey-b4b471243)  
-- 📂 Portfolio/Resume: [Google Drive](https://drive.google.com/drive/folders/1T_I2vTIUQsBcPh60qVjnFObpSKUGzgqn?usp=sharing)  
+- 📂 Portfolio/Resume: [Link](https://nikhilgit630.github.io/Portfolio/)  
 
 ---
 
