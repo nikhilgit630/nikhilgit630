@@ -8,7 +8,7 @@ I specialize in **React, Next.js, Redux-Saga, Node.js**, and also have hands-on 
 ---
 
 ## 🚀 About Me  
-- 🌱 Currently working on scalable frontend systems with **Next.js, TypeScript, Redux-Saga**  
+- 🌱 Currently working on scalable frontend systems with  **React/Next.js, TypeScript, Redux-Saga**  
 - 🛠️ Past experience in **Full Stack Development** (React + Node.js + SQL) with real-time systems using **Redis, RabbitMQ, Socket.io**  
 - 🔐 Trained in **Ethical Hacking & Penetration Testing** from C-DAC (Govt. of India)  
 - 💡 Strong background in **Data Structures & Algorithms** with **700+ problems solved** across platforms  
